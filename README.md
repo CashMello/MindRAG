@@ -1,0 +1,3 @@
+RAG_order这个文件主要负责验证在vetor数据库中不同的rank对结果造成的影响。
+RAG_MS_VECTOR这个文件中的流程已经把全部chunk embedding
+RAG这个文件目前准备继续接入WebSearh和Graph的内容
